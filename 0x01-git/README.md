@@ -1,2 +1,1 @@
-new repo
-:wq
+New dir
